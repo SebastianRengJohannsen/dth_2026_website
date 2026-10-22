@@ -1,1 +1,2 @@
- Hello, this is my website
+ Hello, this is my website.
+ - Sebastian
